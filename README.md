@@ -6,7 +6,7 @@
 - **Codelabs Documentation**: [https://codelabs-preview.appspot.com/?file_id=1SIXWV1sl0IVc_6BME22Uj84kIkyHPPOUMs0PCo3Rb_Y#6]
 - **Project Submission Video (5 Minutes)**: [https://drive.google.com/drive/folders/1898HGutXjQIxwx3OVnr_Yvx9Uq_SKAE1?usp=drive_link]
 - **Hosted Application Links**:
-  - **Frontend (Streamlit)**: [http://24.199.83.132:8502/]
+  - **Frontend (Streamlit)**: [http://24.199.83.132:8501/]
   - **Backend (FastAPI)**: [http://24.199.83.132:8000/]
  
 ## Introduction
